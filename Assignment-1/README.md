@@ -8,32 +8,19 @@ Launch EC2 Instances
 		Value: Auto-Stop
 
        Name: NikhilAutoStart
-	Tag:
-	Key: Action
-	Value: Auto-Start
+		Tag:
+		Key: Action
+		Value: Auto-Start
        
        AMI : Ubuntu
-	Instance Type : t2.micro
-	Key pair (login):
-	Network settings:
-	Allow SSH (port 22) from My IP.
-	Allow HTTP (port 80) 
+		Instance Type : t2.micro
+		Key pair (login):
+		Network settings:
+		Allow SSH (port 22) from My IP.
+		Allow HTTP (port 80) 
        Click Launch instance
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ <img width="940" height="373" alt="image" src="https://github.com/user-attachments/assets/49b74bee-482d-41d8-97fd-5d946d577500" />
 
 
 Lambda Function Creation:

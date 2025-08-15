@@ -1,6 +1,7 @@
 Assignment 1: Automated Instance Management Using AWS Lambda and Boto3
 Launch EC2 Instances
 	1. In the AWS Console, search for EC2 in the search bar and click EC2.
+ 
 	2. Click Launch instances.
 		Name: NikhilAutoStop
 		Tag:
@@ -32,6 +33,7 @@ Launch EC2 Instances
 
 Lambda Function Creation:
 1. Create an IAM Role for Lambda
+   
 * AWS Console => IAM =>Roles => Create role.
 * Trusted Entity type: AWS Services
 * Use Case: Lambda

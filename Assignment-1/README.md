@@ -24,6 +24,10 @@ Launch EC2 Instances
 
  <img width="500" height="373" alt="image" src="https://github.com/user-attachments/assets/d8528e89-7809-4fc4-9c91-4c64b360e1f2" />
 
+ <img width="500" height="373" alt="image" src="https://github.com/user-attachments/assets/e1c1cc5f-5743-4f50-b386-b41efed2ca15" />
+
+ <img width="500" height="373" alt="image" src="https://github.com/user-attachments/assets/67bbfc84-2200-4267-b3b9-0c40b1b2a1f6" />
+
 
 
 Lambda Function Creation:

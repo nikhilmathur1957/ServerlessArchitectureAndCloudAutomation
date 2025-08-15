@@ -1,0 +1,2 @@
+# ServerlessArchitectureAndCloudAutomation
+Graded Assignment on Serverless Architecture

@@ -1,0 +1,16 @@
+Assignment 15: Implement a Log Cleaner for S3
+
+Objective: Create a Lambda function that automatically deletes logs in a specified S3 bucket that are older than 90 days.
+
+Instructions:
+
+1. Create a new Lambda function.
+
+2. Using Boto3, configure the function to:
+
+   1. Access the specified S3 bucket.
+   2. List all the log files.
+   3. Check the age of each log.
+   4. Delete logs older than 90 days.
+
+3. Schedule this function to run weekly using AWS EventBridge.
